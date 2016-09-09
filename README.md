@@ -1,2 +1,2 @@
 # Embedded-Solr-Cloud
-Embedded  Apache Solr Cloud for Testing
+How to embed Apache Solr Cloud in your unit tests.
